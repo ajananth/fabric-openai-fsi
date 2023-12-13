@@ -13,9 +13,7 @@ Running this notebook in Microsoft Fabric will generate summaries for financial 
 
 ## Results
 
-Here is an example of the type of result that can be expected from running this notebook. This was generated when a Participating Forward Contract PDS was analysed.
-
-![PFC](https://github.com/ajananth/fabric-openai-fsi/assets/77469793/aaebcf37-4844-428f-b8d2-1fe637a48e48)
+An example of the type of result that can be expected from running this notebook is available under the Results folder. This was generated when a Participating Forward Contract PDS was analysed.
 
 
 
